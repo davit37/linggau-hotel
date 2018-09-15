@@ -14,5 +14,5 @@ pada halaman ini data fasilitas hotel ditampilkan
 ![alt text](https://raw.githubusercontent.com/davit37/linggau-hotel/master/hotellingga/Screenshot_2.jpg)
 
 3. Menu 
-![alt text](https://raw.githubusercontent.com/davit37/linggau-hotel/master/hotellingga/Screenshot_3.jpg)
+![alt text](https://raw.githubusercontent.com/davit37/linggau-hotel/master/hotellingga/Screenshot_5.jpg)
 
